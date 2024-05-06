@@ -7,7 +7,9 @@
 
 
 More reading about rust (the book)
+
 https://doc.rust-lang.org/book/
 
 https://www.youtube.com/watch?v=2hXNd6x9sZs
+
 https://www.youtube.com/@NoBoilerplate
